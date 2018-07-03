@@ -1,7 +1,7 @@
 # Algorithms-and-Data-Structures</br>
 (C++) Famous data structures and algorithms implemented in C++</br>
 
-1- AVL tree (AVL_tree.h)</br>
+1- <h2>AVL tree</h2> (AVL_tree.h)</br>
   This class implements <a href="https://en.wikipedia.org/wiki/AVL_tree">AVL tree</a> with several methods
   that allow adding a retriving info from the tree.</br></br>
 2- Double linked list (Double_linked_list.h) </br></br>
