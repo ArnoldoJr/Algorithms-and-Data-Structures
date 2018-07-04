@@ -1,7 +1,7 @@
 # Algorithms-and-Data-Structures</br>
 (C++) Famous data structures and algorithms implemented in C++</br>
 
-<h3>AVL tree (AVL_tree.h)</h3>
+<h3>AVL tree (<a href="https://github.com/ArnoldoJr/Algorithms-and-Data-Structures/blob/master/AVL_tree.h" target="_blank">AVL_tree.h</a>)</h3>
   This class implements <a href="https://en.wikipedia.org/wiki/AVL_tree" target="_blank">AVL tree</a> with all the necessary methods that allow to:</br>
 <ul>
   <li>Insert a node in the tree.</li>
@@ -13,7 +13,7 @@
   <li>Print the tree.</li>
 </ul>
   
-<h3>Doubly linked list (Double_linked_list.h)</h3>
+<h3>Doubly linked list (<a href="https://github.com/ArnoldoJr/Algorithms-and-Data-Structures/blob/master/Double_linked_list.h" target="_blank">Double_linked_list.h</a>)</h3>
 &nbsp; This class implements a <a href="https://en.wikipedia.org/wiki/Doubly_linked_list" target="_blank" >doubly linked list</a> with all the necessary methods that allow to:</br>
  <ul>
   <li>Push elements to the front and back.</li>
@@ -24,7 +24,7 @@
 </ul>
 
 
-<h3>Quadratic Hash table (Quadratic_hash_table.h)</h3>
+<h3>Quadratic Hash table (<a href="https://github.com/ArnoldoJr/Algorithms-and-Data-Structures/blob/master/Quadratic_hash_table.h" target="_blank">Quadratic_hash_table.h</a>)</h3>
 &nbsp; This class implements a <a href="https://en.wikipedia.org/wiki/Quadratic_probing" target="_blank" >quadratic hash table</a> with all the necessary methods that allow to:</br>
  <ul>
   <li>Insert a value into the hash table.</li>
@@ -35,7 +35,7 @@
 </ul>
 
 
-<h3>Dijkistra's Algorithm (Weighted_graph.h)</h3>
+<h3>Dijkistra's Algorithm (<a href="https://github.com/ArnoldoJr/Algorithms-and-Data-Structures/blob/master/Weighted_graph.h" target="_blank">Weighted_graph.h</a>)</h3>
 &nbsp; This class implements the <a href="https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm" target="_blank" >Dijkstra's algorithm</a> with all the necessary methods that allow to:</br>
  <ul>
   <li>Insert an edge between two existing vertices.</li>
