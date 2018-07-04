@@ -2,11 +2,19 @@
 (C++) Famous data structures and algorithms implemented in C++</br>
 
 <h4>AVL tree (AVL_tree.h)</h4>
-  This class implements <a href="https://en.wikipedia.org/wiki/AVL_tree" target="_blank">AVL tree</a> with several methods
-  that allow adding a retriving information from the tree.</br></br>
+  This class implements <a href="https://en.wikipedia.org/wiki/AVL_tree" target="_blank">AVL tree</a> with all the necessary methods that allow to:</br>
+<ul>
+  <li>Insert a node in the tree.</li>
+  <li>Delete the entire tree</li>
+  <li>Erase a specific node in the tree</li>
+  <li>Get the height of a node</li>
+  <li>Know whether a node is a leaf or not</li>
+  <li>Get the front and back of the tree as well as finding a specific value in the tree</li>
+  <li>Print the tree</li>
+</ul>
   
 <h4>Doubly linked list (Double_linked_list.h)</h4>
-&nbsp; This class implements a doubly linked list with the following mutators:</br>
+&nbsp; This class implements a <a href="https://en.wikipedia.org/wiki/Doubly_linked_list" target="_blank" >doubly linked list</a> with all the necessary methods that allow to:</br>
  <ul>
   <li>Push elements to the front and back</li>
   <li>Pop elements from the front and back</li>
@@ -17,18 +25,20 @@
 
 
 <h4>Quadratic Hash table (Quadratic_hash_table.h)</h4>
-&nbsp; This class implements a quadratic hash table with the following mutators:</br>
+&nbsp; This class implements a <a href="https://en.wikipedia.org/wiki/Quadratic_probing" target="_blank" >quadratic hash table</a> with the following mutators:</br>
  <ul>
   <li>Insert a value into the hash table</li>
   <li>Remove a value from the hash table</li>
   <li>Remove all the values in the hash table</li>
+  <li>Get load factor, size, capacity and</li>
+  <li> Determine if an object is in the hash table</li>
 </ul>
 
 
 <h4>Dijkistra's Algorithm (Weighted_graph.h)</h4>
-&nbsp; This class implements the Dijkstra's algorithm with the following capabilities:</br>
+&nbsp; This class implements the <a href="https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm" target="_blank" >Dijkstra's algorithm</a> with all the necessary methods that allow to:</br>
  <ul>
-  <li>Ability to insert an edge between two existing vertices.</li>
-  <li>Ability to find the shortest path between vertices m and n.</li>
-  <li>Ability to find the weight of the edge connecting vertices m and n.</li>
+  <li>Insert an edge between two existing vertices.</li>
+  <li>Find the shortest path between vertices m and n.</li>
+  <li>Find the weight of the edge connecting vertices m and n.</li>
 </ul>
