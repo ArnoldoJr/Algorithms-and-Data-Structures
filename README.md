@@ -1,4 +1,4 @@
-# Algorithms-and-Data-Structures</br>
+# Algorithms_and_Data_Structures</br>
 (C++) Famous data structures and algorithms implemented in C++</br>
 
 <h3>AVL tree (<a href="https://github.com/ArnoldoJr/Algorithms-and-Data-Structures/blob/master/AVL_tree.h" target="_blank">AVL_tree.h</a>)</h3>
