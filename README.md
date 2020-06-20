@@ -1,5 +1,5 @@
 # Algorithms_and_Data_Structures</br>
-(C++) Famous data structures and algorithms implemented in C++</br>
+(C++) Common data structures and algorithms implemented in C++</br>
 
 <h3>AVL tree (<a href="https://github.com/ArnoldoJr/Algorithms-and-Data-Structures/blob/master/AVL_tree.h" target="_blank">AVL_tree.h</a>)</h3>
   This class implements <a href="https://en.wikipedia.org/wiki/AVL_tree" target="_blank">AVL tree</a> with all the necessary methods that allow to:</br>
